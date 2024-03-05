@@ -10,13 +10,13 @@ import GooglePay from '../assets/GooglePay.svg';
 import AppleStore from '../assets/AppleStore.svg';
 import seller from '../assets/seller.svg';
 
-export default function Footer() {
+export default function Footer({url}) {
   const [data, setData] = useState([]);
   const [loading, setLoading] = useState(true);
 
   const fetchData = async () => {
     try {
-      const response = await fetch("http://localhost:8080/https://bigbasketjson.netlify.app/bigbasketfooter.json");
+      const response = await fetch(`https://bigbasketjson.netlify.app/${url}`);
       const jsonData = await response.json();
       setData(jsonData);
     } catch (error) {
