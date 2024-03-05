@@ -1,27 +1,59 @@
-cmd Run 
+# BigBasket Clone
 
-node cors-server.js
+This project is a BigBasket clone, developed using Vite for the front end and solving CORS (Cross-Origin Resource Sharing) issues. Additionally, it includes a responsive slideshow feature.
+
+## Table of Contents
+
+- [BigBasket Clone](#bigbasket-clone)
+  - [Table of Contents](#table-of-contents)
+  - [Project Overview](#project-overview)
+  - [Features](#features)
+  - [Setup](#setup)
+  - [Usage](#usage)
+  - [Responsive Slideshow](#responsive-slideshow)
+
+
+## Project Overview
+This project aims to replicate the functionalities of the popular online grocery store, BigBasket. It is built using Vite as the front-end framework and addresses CORS issues that may arise during development.
+
+## Features
+- **Vite Framework:** Utilizes Vite for a fast and efficient development environment.
+- **CORS Problem Solving:** Implements solutions to address Cross-Origin Resource Sharing issues that may occur during development.
+- **Responsive Slideshow:** Incorporates a responsive slideshow feature for an enhanced user experience.
+
+
+## Setup
+
+1. **Clone the Repository:**
+    ```bash
+    git clone https://github.com/sohit-mishra/bigbasket.git
+    ```
+
+2. **Navigate to the Project Directory:**
+    ```bash
+    cd bigbasket
+    ```
+
+3. **Install Dependencies:**
+    ```bash
+    npm install
+    ```
+
+## Usage
+Start the development server:
+
+```bash
 npm run dev
+```
 
-https://www.bigbasket.com/ui-svc/v1/category-tree
-https://www.bigbasket.com/ui-svc/v1/footer
+To start the CORS server, use the following command:
+
+```bash
+node cors-server
+```
 
 
-base:- https://www.bigbasket.com/media/uploads/banner_images/
+## Responsive Slideshow
+The responsive slideshow feature enhances the visual appeal of the application. Ensure that images are optimized and appropriately sized for different screen resolutions.
 
 
-
-https://www.bigbasket.com/media/uploads/banner_images/hp_cmc_m_offer_28_220921_all.png
-https://www.bigbasket.com/media/uploads/banner_images/Smart_basket-250124-1.png
-https://www.bigbasket.com/media/uploads/banner_images/hp_topstrip_m_250923_06.png?tr=w-1920,q=80
-https://www.bigbasket.com/media/uploads/banner_images/hp_topstrip_m_250923_05.png?tr=w-1920,q=80
-https://www.bigbasket.com/media/uploads/banner_images/hp_topstrip_m_250923_04.png?tr=w-1920,q=80
-https://www.bigbasket.com/media/uploads/banner_images/hp_topstrip_m_250923_03.png?tr=w-1920,q=80
-https://www.bigbasket.com/media/uploads/banner_images/hp_topstrip_m_250923_02.png?tr=w-1920,q=80
-
-https://www.bigbasket.com/media/uploads/banner_images/hp_topstrip_m_250923_01.png?tr=w-1920,q=80
-https://www.bigbasket.com/media/uploads/banner_images/hp_bcd_m_bcd_250923_400.jpg?tr=w-1920,q=80
-https://www.bigbasket.com/media/uploads/banner_images/hp_m_babycare_250923_400.jpg?tr=w-1920,q=80
-https://www.bigbasket.com/media/uploads/banner_images/hp_m_health_suppliment_250923_400.jpg?tr=w-1920,q=80
-https://www.bigbasket.com/media/uploads/banner_images/hp_m_petstore_250923_400.jpg?tr=w-1920,q=80
-https://www.bigbasket.com/media/uploads/banner_images/B2C022308704-16155-460-DT-all-cm-290224.jpg?tr=w-1920,q=80

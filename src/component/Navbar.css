@@ -4,5 +4,115 @@ header{
     box-shadow: 1px 1px 11px -1px rgb(65, 65, 65);
     border-bottom: 1px solid #aaaaaa;
     padding: 10px 0;
+    position: sticky; 
+    top:0;
+    background-color: #fff;
+    z-index: 1;
+    border-top: 4px solid #64941b;
 }
 
+header .top{
+    display: flex;
+    align-items: center;
+}
+header .top #logo{
+   width: 120px;
+   margin-right: 20px;
+}
+header .top input{
+    width: 100%;
+    height: 34px;
+    padding: 5px 30px;
+    border: 1px solid #535353;
+    outline: none;
+    border-radius: 5px;
+}
+header .top input:focus{
+    border: 1px solid #64941b;
+    outline: none;
+}
+header .top button{  
+    width: 180px;
+    text-align: center;
+    color: #000;
+    background-color: #eeeeee;
+    margin-left: 10px;
+    padding: 2px 20px;
+    border: 0;
+    font-size: 12px;
+    height: 34px;
+    border-radius: 5px;
+}
+header .top button + button{  
+    color: #fff;
+    background-color: #000;
+}
+header .top #cart{
+    background-color:#f9e6e6;
+    width: 35px;
+    height: 35px;
+    padding: 5px;
+    margin-left: 5px;
+    border-radius: 5px;
+}
+header .bottom{
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+}
+header .bottom button{
+
+    background-color: #64941b;
+    color: #fff;
+    border: 1px solid #fff;
+    width: 150px;
+    text-align: center;
+    padding: 10px 5px;
+    border-radius: 5px;
+}
+
+header .bottom ul{
+   list-style: none;
+   padding: 10px 0;
+   overflow: hidden;
+   display: flex;
+   align-items: center;
+}
+header .bottom ul li{
+    display: inline-block;
+    padding:0 20px ;
+    width: 180px;
+  
+    text-align: center;
+ }
+ header .bottom ul li a{
+    width: 130px !important;
+    display: block;
+    overflow: hidden; 
+     text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+
+@media only screen and (max-width: 800px) {
+    header .bottom{
+        display: none;
+    }
+    header .top button{ 
+        display: none; 
+    }
+    header .top button + button{ 
+        display: block; 
+    }
+}
+@media only screen and (max-width: 600px) {
+      header .top input{
+        display: none;
+    }
+    header .top button + button{ 
+        display: none; 
+    }
+    header .top{
+        justify-content: space-between;
+    }
+}

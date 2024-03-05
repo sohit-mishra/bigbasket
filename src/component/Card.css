@@ -14,3 +14,14 @@
 #cardFour img:hover {
     box-shadow: 2px 0 16px 0px #b2b2b2;
 }
+
+@media only screen and (max-width: 800px) {
+    #cardFour {
+        grid-template-columns: auto auto;
+    }
+}
+@media only screen and (max-width: 600px) {
+    #cardFour {
+        grid-template-columns:auto;
+    }
+}

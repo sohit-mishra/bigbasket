@@ -4,7 +4,6 @@ import { Link } from "react-router-dom";
 
 export default function Footer({ url, heading }) {
     const [data, setData] = useState([]);
-    const [loading, setLoading] = useState(true);
     const [baseUrl, setBaseUrl] = useState('');
 
     const fetchData = async () => {
@@ -15,18 +14,12 @@ export default function Footer({ url, heading }) {
             setBaseUrl(jsonData.baseurl);
         } catch (error) {
             console.error("Error fetching data:", error);
-        } finally {
-            setLoading(false);
-        }
+        } 
     };
 
     useEffect(() => {
         fetchData();
     }, []);
-
-    if (loading) {
-        return <h1>Loading...</h1>;
-    }
 
     return (
         <div className="container">

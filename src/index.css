@@ -14,3 +14,16 @@ a{
   text-decoration: none;
   color: #000;
 }
+
+
+@media only screen and (max-width: 1250px) {
+  .container{
+    width: calc(100% - 20px);
+    padding: 0 10px;
+  }
+}
+@media only screen and (max-width: 800px) {
+  
+}
+@media only screen and (max-width: 600px) {
+  }

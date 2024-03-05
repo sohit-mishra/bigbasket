@@ -2,7 +2,6 @@ import { useEffect, useState } from "react";
 import './Card.css';
 export default function Footer({url ,heading}) {
     const [data, setData] = useState([]);
-    const [loading, setLoading] = useState(true);
     const [baseUrl, setbaseUrl] = useState('');
 
     const fetchData = async () => {
@@ -13,18 +12,12 @@ export default function Footer({url ,heading}) {
             setbaseUrl(jsonData.baseurl);
         } catch (error) {
             console.error("Error fetching data:", error);
-        } finally {
-            setLoading(false);
-        }
+        } 
     };
 
     useEffect(() => {
         fetchData();
     }, []);
-
-    if (loading) {
-        return <h1>Loading</h1>;
-    }
 
     return (
         <div className="container">
