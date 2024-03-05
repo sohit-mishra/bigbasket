@@ -1,0 +1,16 @@
+#cardFour {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr) auto;
+    grid-gap: 18px;
+    margin: 30px 0;
+}
+
+#cardFour img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+#cardFour img:hover {
+    box-shadow: 2px 0 16px 0px #b2b2b2;
+}

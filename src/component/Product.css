@@ -1,0 +1,21 @@
+.ProductRow{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.ProductRow .right a{
+    text-decoration: underline;
+    padding: 0 5px;
+    font-weight: 550;
+    color: #393939;
+    font-size: large;
+}
+.ProductRow .right button{
+    width: 30px;
+    height: 30px;
+    margin-left: 20px;
+    font-weight: bold;
+    box-shadow: 0 0 8px 2px #ececec;
+    border: 0;
+}

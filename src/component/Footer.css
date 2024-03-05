@@ -1,0 +1,88 @@
+footer{
+    background-color: #101010;
+    color: #fff;
+    width: 100%;
+    padding: 30px 0;
+    position: absolute;
+}
+footer h4{
+    padding: 4px 0;
+}
+footer p {
+    text-align: center;
+    word-spacing: 2px;
+    color: #fff;
+}
+footer span{
+    padding: 3px;
+}
+footer hr{
+    border: 2px dotted #ffffff;
+    border-style: none none dotted; 
+    color: #fff; 
+    background-color: #000000;
+    margin: 20px 0;
+}
+footer .cities h4{
+    text-align: center;
+    padding: 10px;
+}
+footer #footerPopular{
+    display: flex;
+    justify-content: space-between;
+}
+footer #top{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+}
+footer a{
+    color: #fff;
+}
+footer li{
+    padding: 5px 0;
+}
+footer .right{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    width: 300px;
+}
+footer .flex{
+    display: flex;
+}
+footer .flex img{
+    margin: 14px 20px 14px 0;
+}
+footer .store img{
+    margin: 10px 20px 10px 0;
+}
+footer #logo{
+    width: 200px;
+    margin-bottom: 10px;
+}
+
+footer button{
+    background: #202020;
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    border: 0;
+    width: 150px;
+    margin: 10px 0;
+    border-radius: 5px;
+    color: #fff;
+}
+footer button img{
+    margin-right: 5px;
+    color: #fff;
+    background-color: #202020;
+    filter: saturate(3); 
+}
+
+footer .bottom{
+    background-color: #000;
+    position: relative;
+    bottom: -30px;
+    padding: 15px;
+}

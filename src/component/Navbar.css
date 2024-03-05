@@ -1,0 +1,8 @@
+header{
+    display: flex;
+    flex-direction: column;
+    box-shadow: 1px 1px 11px -1px rgb(65, 65, 65);
+    border-bottom: 1px solid #aaaaaa;
+    padding: 10px 0;
+}
+
