@@ -1,0 +1,35 @@
+{
+  "baseurl": "https://www.bigbasket.com/media/uploads/banner_images/",
+  "banners": [
+    {
+      "id": 1,
+      "url": "https://www.bigbasket.com/cl/eggs-meat-fish/",
+      "img": "hp_topstrip_m_250923_01.png"
+    },
+    {
+      "id": 2,
+      "url": "https://www.tatadigital.com/home",
+      "img": "hp_topstrip_m_250923_02.png"
+    },
+    {
+      "id": 3,
+      "url": "https://www.bigbasket.com/pc/beauty-hygiene/health-medicine/ayurveda/",
+      "img": "hp_topstrip_m_250923_03.png"
+    },
+    {
+      "id": 4,
+      "url": "https://www.bigbasket.com/sp/2307001-buy-more-save-more/",
+      "img": "hp_topstrip_m_250923_04.png"
+    },
+    {
+      "id": 5,
+      "url": "https://www.bigbasket.com/sp/2311728-deals-week/",
+      "img": "hp_topstrip_m_250923_05.png"
+    },
+    {
+      "id": 6,
+      "url": "https://www.bigbasket.com/sp/2306008-combos/",
+      "img": "hp_topstrip_m_250923_06.png"
+    }
+  ]
+}

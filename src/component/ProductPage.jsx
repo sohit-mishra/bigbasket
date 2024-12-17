@@ -10,13 +10,12 @@ export default function ProductPage({ url, heading }) {
 
   const fetchData = async () => {
     try {
-      const response = await fetch("http://localhost:8080/https://bigbasketjson.netlify.app/" + url);
+      const response = await fetch(url);
       const jsonData = await response.json();
       setData(jsonData.products);
       setBaseUrl(jsonData.base_url);
     } catch (error) {
       console.error("Error fetching data:", error);
-      // You may add error handling here (e.g., set an error state)
     } finally {
       setLoading(false);
     }

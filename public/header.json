@@ -1,0 +1,558 @@
+{
+  "selected_address_id" : "204329115",
+  "sa_list" : [ {
+    "sa_id" : 10654,
+    "dms" : [ ],
+    "entry_context_ids" : [ 100 ],
+    "sa_group_id" : [ ]
+  } ],
+  "top_links" : [ {
+    "url" : "https://www.bigbasket.com/pc/fruits-vegetables/exotic-fruits-veggies",
+    "slug" : "exotic fruits & veggies",
+    "display_name" : "Exotic Fruits & Veggies"
+  }, {
+    "url" : "https://www.bigbasket.com/pc/beverages/tea",
+    "slug" : "tea",
+    "display_name" : "Tea"
+  }, {
+    "url" : "https://www.bigbasket.com/pc/foodgrains-oil-masala/edible-oils-ghee/ghee-vanaspati",
+    "slug" : "ghee",
+    "display_name" : "Ghee"
+  }, {
+    "url" : "https://www.bigbasket.com/pb/nandini",
+    "slug" : "nandini",
+    "display_name" : "Nandini"
+  }, {
+    "url" : "https://www.bigbasket.com/pc/fruits-vegetables/fresh-vegetables/",
+    "slug" : "vegetables",
+    "display_name" : "Fresh Vegetables"
+  }, {
+    "url" : "https://www.bigbasket.com/pb/kelloggs",
+    "slug" : "kelloggs",
+    "display_name" : "Kelloggs"
+  }, {
+    "url" : "https://www.bigbasket.com/pc/bakery-cakes-dairy/dairy/milk",
+    "slug" : "milk",
+    "display_name" : "Milk"
+  }, {
+    "url" : "https://www.bigbasket.com/pc/bakery-cakes-dairy/dairy/yogurt-shrikhand",
+    "slug" : "yogurt",
+    "display_name" : "Yogurt & Shrikhand"
+  }, {
+    "url" : "https://www.bigbasket.com/pc/snacks-branded-foods/chocolates-candies/chocolates",
+    "slug" : "chocolates",
+    "display_name" : "Chocolates"
+  }, {
+    "url" : "https://www.bigbasket.com/pc/snacks-branded-foods/noodle-pasta-vermicelli/cup-noodles",
+    "slug" : "cup-noodles",
+    "display_name" : "Cup Noodles"
+  }, {
+    "url" : "https://www.bigbasket.com/pc/beauty-hygiene/hair-care",
+    "slug" : "hair-care",
+    "display_name" : "Hair Care"
+  }, {
+    "url" : "https://www.bigbasket.com/pc/eggs-meat-fish/poultry/fresh-chicken",
+    "slug" : "fresh-chicken",
+    "display_name" : "Fresh Chicken"
+  }, {
+    "url" : "https://www.bigbasket.com/pc/eggs-meat-fish/eggs",
+    "slug" : "eggs",
+    "display_name" : "Eggs"
+  }, {
+    "url" : "https://www.bigbasket.com/pc/snacks-branded-foods/spreads-sauces-ketchup/honey",
+    "slug" : "honey",
+    "display_name" : "Honey"
+  } ],
+  "is_city_default_partial" : false,
+  "bb_star_membership_info" : {
+    "url" : "",
+    "msg" : "",
+    "is_city_bb_star_enabled" : true,
+    "know_more_text" : "",
+    "is_bb_star_member" : false,
+    "show_priority_slot_msg" : false,
+    "neupass_url" : "",
+    "is_neupass_pilot" : false,
+    "neupass_onboarding_url" : "",
+    "neupass_query_params" : {
+      "programId" : "",
+      "source" : ""
+    },
+    "neupass_onboarding_display_count" : 3,
+    "title" : ""
+  },
+  "special_notifications" : { },
+  "ticker_info" : { },
+  "additional_cookies" : {
+    "_bb_bb2.0" : "1",
+    "is_global" : "1",
+    "_bb_addressinfo" : "",
+    "_bb_pin_code" : "",
+    "_bb_sa_ids" : "10654",
+    "_is_tobacco_enabled" : "0",
+    "_is_bb1.0_supported" : "0"
+  },
+  "banners" : [ {
+    "id" : 8719887,
+    "url" : "https://www.bigbasket.com/member/smart-basket/?nc=b-header-2-tile&b_t=Header-2-Tile&b_camp=smart_basket-250124-1",
+    "campaign" : "Smart_basket-250124-1",
+    "orientation" : "s",
+    "image_name" : "uploads/banner_images/Smart_basket-250124-1.png",
+    "pwa_url" : "",
+    "banner_type" : "Header-2-Tile"
+  }, {
+    "id" : 3546528,
+    "url" : "https://www.bigbasket.com/offers/?nc=b-header-2-tile&b_t=header-2-tile&b_camp=hp_cmc_m_offer_28_220921_all",
+    "campaign" : "hp_cmc_m_offer_28_220921_all",
+    "orientation" : "s",
+    "image_name" : "uploads/banner_images/hp_cmc_m_offer_28_220921_all.png",
+    "pwa_url" : "",
+    "banner_type" : "Header-2-Tile"
+  } ],
+  "addresses" : [ {
+    "nick" : "",
+    "id" : "204329115",
+    "lng" : 78.30626734472719,
+    "lat" : 32.914090760254,
+    "pin" : 560004,
+    "address1" : "",
+    "address2" : "",
+    "area" : "",
+    "sa_city_id" : 1,
+    "address_type" : 1,
+    "city_name" : "Bangalore",
+    "city_id" : 1,
+    "city_short_name" : "BAN",
+    "first_name" : "",
+    "last_name" : "",
+    "contact_no" : "-1000000000",
+    "use_contact_no" : false,
+    "bb1_backendcity_id" : 1,
+    "state_name" : "Karnataka",
+    "state_slug" : "karnataka",
+    "is_mach_disabled" : false,
+    "is_current_delivery" : false,
+    "is_partial" : true,
+    "is_default" : true
+  } ],
+  "door_ui" : {
+    "desc" : "Choose from one of the services to order",
+    "title" : "Welcome to bigbasket!",
+    "pseudo_doors" : [ "10000", "10001" ],
+    "pseudo_door_config" : {
+      "10000" : {
+        "slug" : "beauty",
+        "destination" : {
+          "url" : "",
+          "dest_slug" : "beauty-hygiene",
+          "dest_type" : "dynamic_page"
+        },
+        "capabilities" : {
+          "all_cities" : true,
+          "enable_bb1_support" : true,
+          "is_member_specific" : false
+        },
+        "eta_static_text" : ""
+      },
+      "10001" : {
+        "slug" : "pharma",
+        "destination" : {
+          "url" : "",
+          "dest_slug" : "https://www.1mg.com/",
+          "dest_type" : "flat_page"
+        },
+        "capabilities" : {
+          "all_cities" : true,
+          "enabled_cities" : {
+            "1" : {
+              "all_sa" : true,
+              "sa_exclusion_list" : [ ],
+              "sa_inclusion_list" : [ ]
+            }
+          },
+          "enable_bb1_support" : true,
+          "is_member_specific" : true
+        },
+        "eta_static_text" : "Earliest orders in 5 hrs"
+      }
+    },
+    "door_ui_static_config" : {
+      "door_bg_color" : "#FFFFFF",
+      "door_ui_config" : [ {
+        "category_name" : "Shop Groceries",
+        "category_image_url" : "https://www.bigbasket.com/media/uploads/green+cat.png",
+        "category_attributes" : {
+          "10" : {
+            "door_icon_url" : "https://www.bigbasket.com/media/uploads/now.png",
+            "new_label_url" : "",
+            "illustration_url" : "https://www.bigbasket.com/media/uploads/bbNow+bg+image.png",
+            "door_description_msg" : "Instant delivery of 7000+ essentials",
+            "door_open_eta_icon_url" : "https://www.bigbasket.com/media/uploads/clock.png",
+            "door_open_eta_end_color" : "#00689f38",
+            "door_closed_eta_icon_url" : "https://www.bigbasket.com/media/uploads/warning_amber_black_24_dp_1.png",
+            "door_open_eta_text_color" : "#2b8a3e",
+            "door_closed_eta_end_color" : "#00ff6b6b",
+            "door_open_eta_start_color" : "#4c689f38",
+            "door_closed_eta_text_color" : "#cc0000",
+            "door_closed_eta_start_color" : "#4cff6b6b"
+          },
+          "12" : {
+            "door_icon_url" : "https://www.bigbasket.com/media/uploads/New_express_logo.png",
+            "new_label_url" : "",
+            "illustration_url" : "https://www.bigbasket.com/media/uploads/bbExpress.png",
+            "door_description_msg" : "Handpicked essentials at lowest prices",
+            "door_open_eta_icon_url" : "https://www.bigbasket.com/media/uploads/clock.png",
+            "door_open_eta_end_color" : "#00689f38",
+            "door_closed_eta_icon_url" : "https://www.bigbasket.com/media/uploads/warning_amber_black_24_dp_1.png",
+            "door_open_eta_text_color" : "#2b8a3e",
+            "door_closed_eta_end_color" : "#00ff6b6b",
+            "door_open_eta_start_color" : "#4c689f38",
+            "door_closed_eta_text_color" : "#cc0000",
+            "door_closed_eta_start_color" : "#4cff6b6b"
+          },
+          "17" : {
+            "door_icon_url" : "https://www.bigbasket.com/media/uploads/SuperSaver-logo1.png",
+            "new_label_url" : "https://www.bigbasket.com/media/uploads/New_New+badge_ribbon.png",
+            "illustration_url" : "https://www.bigbasket.com/media/uploads/bbsupersaver-doorimage-2.jpg",
+            "door_description_msg" : "",
+            "door_open_eta_icon_url" : "",
+            "door_open_eta_end_color" : "#00689f38",
+            "door_closed_eta_icon_url" : "https://www.bigbasket.com/media/uploads/warning_amber_black_24_dp_1.png",
+            "door_open_eta_text_color" : "#2b8a3e",
+            "door_closed_eta_end_color" : "#00ff6b6b",
+            "door_open_eta_start_color" : "#4c689f38",
+            "door_closed_eta_text_color" : "#cc0000",
+            "door_closed_eta_start_color" : "#4cff6b6b",
+            "checkout_enable_strip_end_color" : "#689F38",
+            "checkout_disable_strip_end_color" : "#D30019",
+            "checkout_enable_strip_start_color" : "#84C225",
+            "checkout_disable_strip_start_color" : "#E76065"
+          },
+          "100" : {
+            "door_icon_url" : "https://www.bigbasket.com/media/uploads/New_bigbasket_logo.png",
+            "new_label_url" : "",
+            "illustration_url" : "https://www.bigbasket.com/media/uploads/bigbasket+updated+door+image.png",
+            "door_description_msg" : "1 lakh+ products at lowest prices",
+            "door_open_eta_icon_url" : "https://www.bigbasket.com/media/uploads/clock.png",
+            "door_open_eta_end_color" : "#00689f38",
+            "door_closed_eta_icon_url" : "https://www.bigbasket.com/media/uploads/warning_amber_black_24_dp_1.png",
+            "door_open_eta_text_color" : "#2b8a3e",
+            "door_closed_eta_end_color" : "#00ff6b6b",
+            "door_open_eta_start_color" : "#4c689f38",
+            "door_closed_eta_text_color" : "#cc0000",
+            "door_closed_eta_start_color" : "#4cff6b6b",
+            "checkout_enable_strip_end_color" : "#689F38",
+            "checkout_disable_strip_end_color" : "#D30019",
+            "checkout_enable_strip_start_color" : "#84C225",
+            "checkout_disable_strip_start_color" : "#E76065"
+          }
+        },
+        "category_text_color" : "#2f9e44"
+      }, {
+        "category_name" : "Do More With Bigbasket",
+        "category_image_url" : "https://www.bigbasket.com/media/uploads/dark+red.png",
+        "category_attributes" : {
+          "13" : {
+            "door_icon_url" : "https://www.bigbasket.com/media/uploads/New_meat_logo.png",
+            "new_label_url" : "",
+            "illustration_url" : "https://www.bigbasket.com/media/uploads/fresho-meat_window_624x452-new.png",
+            "door_description_msg" : "Fresh meats at lowest prices",
+            "door_open_eta_icon_url" : "https://www.bigbasket.com/media/uploads/clock.png",
+            "door_open_eta_end_color" : "#00689f38",
+            "door_closed_eta_icon_url" : "https://www.bigbasket.com/media/uploads/warning_amber_black_24_dp_1.png",
+            "door_open_eta_text_color" : "#2b8a3e",
+            "door_closed_eta_end_color" : "#00ff6b6b",
+            "door_open_eta_start_color" : "#4c689f38",
+            "door_closed_eta_text_color" : "#cc0000",
+            "door_closed_eta_start_color" : "#4cff6b6b"
+          },
+          "14" : {
+            "door_icon_url" : "https://www.bigbasket.com/media/uploads/New_meat_logo.png",
+            "new_label_url" : "",
+            "illustration_url" : "https://www.bigbasket.com/media/uploads/fresho-meat_window_624x452-new.png",
+            "door_description_msg" : "Fresh meats delivered instantly",
+            "door_open_eta_icon_url" : "https://www.bigbasket.com/media/uploads/clock.png",
+            "door_open_eta_end_color" : "#00689f38",
+            "door_closed_eta_icon_url" : "https://www.bigbasket.com/media/uploads/warning_amber_black_24_dp_1.png",
+            "door_open_eta_text_color" : "#2b8a3e",
+            "door_closed_eta_end_color" : "#00ff6b6b",
+            "door_open_eta_start_color" : "#4c689f38",
+            "door_closed_eta_text_color" : "#cc0000",
+            "door_closed_eta_start_color" : "#4cff6b6b"
+          },
+          "10000" : {
+            "door_icon_url" : "https://www.bigbasket.com/media/uploads/Updated_Beauty_Feb_logo.png",
+            "new_label_url" : "https://www.bigbasket.com/media/uploads/New_New+badge_ribbon.png",
+            "illustration_url" : "https://www.bigbasket.com/media/uploads/624_452+-+Beauty+Door+Entry+Point+PBS+Feb+'24.png",
+            "door_description_msg" : "One stop shop for beauty and grooming",
+            "door_open_eta_icon_url" : "https://www.bigbasket.com/media/uploads/clock.png",
+            "door_open_eta_end_color" : "#00689f38",
+            "door_closed_eta_icon_url" : "https://www.bigbasket.com/media/uploads/warning_amber_black_24_dp_1.png",
+            "door_open_eta_text_color" : "#2B8A3E",
+            "door_closed_eta_end_color" : "#00ff6b6b",
+            "door_open_eta_start_color" : "#4c689f38",
+            "door_closed_eta_text_color" : "#CC0000",
+            "door_closed_eta_start_color" : "#4cff6b6b"
+          },
+          "10001" : {
+            "door_icon_url" : "https://www.bigbasket.com/media/uploads/Final_Pharma_logo_door_4x.png",
+            "new_label_url" : "https://www.bigbasket.com/media/uploads/New_New+badge_ribbon.png",
+            "is_phrama_door" : true,
+            "pharma_tab_name" : "Pharma",
+            "illustration_url" : "https://www.bigbasket.com/media/uploads/Final_DoorImage_Pharma_4x.png",
+            "pharma_redirect_url" : "https://www.1mg.com/",
+            "door_description_msg" : "Medicines, lab tests and eConsultations",
+            "pharma_home_page_url" : "https://www.1mg.com/",
+            "hide_flat_page_bootom" : true,
+            "door_open_eta_icon_url" : "https://www.bigbasket.com/media/uploads/clock.png",
+            "pharma_flat_page_title" : "Pharma by TATA 1MG",
+            "door_open_eta_end_color" : "#00689f38",
+            "door_closed_eta_icon_url" : "https://www.bigbasket.com/media/uploads/warning_amber_black_24_dp_1.png",
+            "door_open_eta_text_color" : "#2B8A3E",
+            "door_closed_eta_end_color" : "#00ff6b6b",
+            "door_open_eta_start_color" : "#4c689f38",
+            "door_closed_eta_text_color" : "#CC0000",
+            "door_closed_eta_start_color" : "#4cff6b6b",
+            "my_order_list_pharma_banner" : [ {
+              "pharma_door_url" : "https://www.bigbasket.com/media/uploads/Final_Pharma_MyOrders_4x.png",
+              "destination_door" : {
+                "url" : "",
+                "dest_slug" : "https://www.1mg.com/",
+                "dest_type" : "flat_page"
+              }
+            } ],
+            "pharma_my_order_redirect_url" : "https://www.1mg.com/order/history"
+          }
+        },
+        "category_text_color" : "#d80303"
+      } ],
+      "door_bg_image_url" : ""
+    },
+    "new_service_information_message" : "bbnow service is currently not available at the selected location. Please select another location or continue shopping in bigbasket"
+  },
+  "entry_context_mapping" : {
+    "3" : {
+      "id" : 3,
+      "slug" : "bbinstant",
+      "display_name" : "BBInstant",
+      "is_door_enabled" : true,
+      "is_checkout_enabled" : true,
+      "ec_specific_icon_url" : "https://www.bigbasket.com/media/uploads/bb_ec_specific_logo.png",
+      "door_icon_url" : "https://www.bigbasket.com/media/uploads/bb_door_logo.png",
+      "toolbar_icon_url" : "https://www.bigbasket.com/media/uploads/bb_header_logo.png",
+      "app_behaviour" : "standard",
+      "door_inclusion_priority" : 100
+    },
+    "4" : {
+      "id" : 4,
+      "slug" : "bb-daily",
+      "display_name" : "BB-Daily",
+      "is_door_enabled" : true,
+      "is_checkout_enabled" : true,
+      "ec_specific_icon_url" : "https://www.bigbasket.com/media/uploads/bb_ec_specific_logo.png",
+      "door_icon_url" : "https://www.bigbasket.com/media/uploads/bb_door_logo.png",
+      "toolbar_icon_url" : "https://www.bigbasket.com/media/uploads/bb_header_logo.png",
+      "app_behaviour" : "standard",
+      "door_inclusion_priority" : 100
+    },
+    "7" : {
+      "id" : 7,
+      "slug" : "mandi",
+      "display_name" : "BB-Mandi",
+      "is_door_enabled" : true,
+      "is_checkout_enabled" : true,
+      "ec_specific_icon_url" : "https://www.bigbasket.com/media/uploads/bb_ec_specific_logo.png",
+      "door_icon_url" : "https://www.bigbasket.com/media/uploads/bb_door_logo.png",
+      "toolbar_icon_url" : "https://www.bigbasket.com/media/uploads/bb_header_logo.png",
+      "app_behaviour" : "standard"
+    },
+    "8" : {
+      "id" : 8,
+      "slug" : "pb-fnv",
+      "display_name" : "Fresho",
+      "is_door_enabled" : true,
+      "is_checkout_enabled" : true,
+      "ec_specific_icon_url" : "",
+      "door_icon_url" : "https://www.bigbasket.com/media/uploads/bb_door_logo.png",
+      "toolbar_icon_url" : "https://www.bigbasket.com/media/uploads/bb_header_logo.png",
+      "app_behaviour" : "standard"
+    },
+    "9" : {
+      "id" : 9,
+      "slug" : "pb-fmcg",
+      "display_name" : "Fresho",
+      "is_door_enabled" : true,
+      "is_checkout_enabled" : true,
+      "ec_specific_icon_url" : "",
+      "door_icon_url" : "https://www.bigbasket.com/media/uploads/bb_door_logo.png",
+      "toolbar_icon_url" : "https://www.bigbasket.com/media/uploads/bb_header_logo.png",
+      "app_behaviour" : "standard"
+    },
+    "10" : {
+      "id" : 10,
+      "slug" : "bbnow",
+      "display_name" : "bbnow",
+      "is_door_enabled" : false,
+      "is_checkout_enabled" : false,
+      "ec_specific_icon_url" : "https://www.bigbasket.com/media/uploads/bbnow_ec_specific_logo.png",
+      "door_icon_url" : "https://www.bigbasket.com/media/uploads/bbnow_door_logo.png",
+      "toolbar_icon_url" : "https://www.bigbasket.com/media/uploads/bbnow_header_logo.png",
+      "app_behaviour" : "express",
+      "door_inclusion_priority" : 2
+    },
+    "12" : {
+      "id" : 12,
+      "slug" : "bb-express",
+      "display_name" : "Express",
+      "is_door_enabled" : false,
+      "is_checkout_enabled" : true,
+      "ec_specific_icon_url" : "https://www.bigbasket.com/media/uploads/express.png",
+      "door_icon_url" : "https://bigbasket-india.s3.ap-south-1.amazonaws.com/media/uploads/bbexpress_door_logo.png",
+      "toolbar_icon_url" : "https://bigbasket-india.s3.ap-south-1.amazonaws.com/media/uploads/frame%403x+copy.png",
+      "app_behaviour" : "standard",
+      "door_inclusion_priority" : 3
+    },
+    "13" : {
+      "id" : 13,
+      "slug" : "bb-meatexpress",
+      "display_name" : "FreshoMeats",
+      "is_door_enabled" : false,
+      "is_checkout_enabled" : true,
+      "ec_specific_icon_url" : "https://bigbasket-india.s3.ap-south-1.amazonaws.com/media/uploads/fresho_meats_logo.png",
+      "door_icon_url" : "https://www.bigbasket.com/media/uploads/fresho_meat_app_logo_final_curve_15_02_2022_1.png",
+      "toolbar_icon_url" : "https://bigbasket-india.s3.ap-south-1.amazonaws.com/media/uploads/fresho_meats_logo_1.png",
+      "app_behaviour" : "standard",
+      "door_inclusion_priority" : 6
+    },
+    "14" : {
+      "id" : 14,
+      "slug" : "bb-meatnow",
+      "display_name" : "FreshoMeats",
+      "is_door_enabled" : false,
+      "is_checkout_enabled" : true,
+      "ec_specific_icon_url" : "https://bigbasket-india.s3.ap-south-1.amazonaws.com/media/uploads/fresho_meats_logo.png",
+      "door_icon_url" : "https://www.bigbasket.com/media/uploads/fresho_meat_app_logo_final_curve_15_02_2022_1.png",
+      "toolbar_icon_url" : "https://bigbasket-india.s3.ap-south-1.amazonaws.com/media/uploads/fresho_meats_logo_1.png",
+      "app_behaviour" : "express",
+      "door_inclusion_priority" : 5
+    },
+    "15" : {
+      "id" : 15,
+      "slug" : "tataneu-b2c",
+      "display_name" : "TataNeu",
+      "is_door_enabled" : true,
+      "is_checkout_enabled" : true,
+      "ec_specific_icon_url" : "https://www.bigbasket.com/media/uploads/bb+on+tata.png",
+      "door_icon_url" : "https://www.bigbasket.com/media/uploads/bb_door_logo.png",
+      "toolbar_icon_url" : "https://www.bigbasket.com/media/uploads/bb_header_logo.png",
+      "app_behaviour" : "standard",
+      "door_inclusion_priority" : 7
+    },
+    "16" : {
+      "id" : 16,
+      "slug" : "tataneu-bbnow",
+      "display_name" : "TN-bbnow",
+      "is_door_enabled" : false,
+      "is_checkout_enabled" : true,
+      "ec_specific_icon_url" : "https://www.bigbasket.com/media/uploads/bbnow+on+tata.png",
+      "door_icon_url" : "https://www.bigbasket.com/media/uploads/bb_door_logo.png",
+      "toolbar_icon_url" : "https://www.bigbasket.com/media/uploads/bb_header_logo.png",
+      "app_behaviour" : "express",
+      "door_inclusion_priority" : 8
+    },
+    "17" : {
+      "id" : 17,
+      "slug" : "bb-supersaver",
+      "display_name" : "bb supersaver",
+      "is_door_enabled" : true,
+      "is_checkout_enabled" : true,
+      "ec_specific_icon_url" : "https://www.bigbasket.com/media/uploads/supersave.png",
+      "door_icon_url" : "https://www.bigbasket.com/media/uploads/bb_door_logo.png",
+      "toolbar_icon_url" : "https://www.bigbasket.com/media/uploads/SuperSaver-Logo-Header.png",
+      "app_behaviour" : "standard",
+      "door_inclusion_priority" : 4
+    },
+    "18" : {
+      "id" : 18,
+      "slug" : "bb-b2b-pharmacy",
+      "display_name" : "Pharmacy",
+      "is_door_enabled" : true,
+      "is_checkout_enabled" : true,
+      "ec_specific_icon_url" : "",
+      "door_icon_url" : "https://www.bigbasket.com/media/uploads/bb_door_logo.png",
+      "toolbar_icon_url" : "https://www.bigbasket.com/media/uploads/bb_header_logo.png",
+      "app_behaviour" : "standard"
+    },
+    "19" : {
+      "id" : 19,
+      "slug" : "bb-b2b-ihcl",
+      "display_name" : "IHCL",
+      "is_door_enabled" : true,
+      "is_checkout_enabled" : true,
+      "ec_specific_icon_url" : "",
+      "door_icon_url" : "https://www.bigbasket.com/media/uploads/bb_door_logo.png",
+      "toolbar_icon_url" : "https://www.bigbasket.com/media/uploads/bb_header_logo.png",
+      "app_behaviour" : "standard"
+    },
+    "20" : {
+      "id" : 20,
+      "slug" : "bb-3pl",
+      "display_name" : "Bigbasket",
+      "is_door_enabled" : true,
+      "is_checkout_enabled" : true,
+      "ec_specific_icon_url" : "https://www.bigbasket.com/media/uploads/bb_ec_specific_logo.png",
+      "door_icon_url" : "https://www.bigbasket.com/media/uploads/bb_door_logo.png",
+      "toolbar_icon_url" : "https://www.bigbasket.com/media/uploads/bb_header_logo.png",
+      "app_behaviour" : "courier",
+      "door_inclusion_priority" : 100
+    },
+    "21" : {
+      "id" : 21,
+      "slug" : "bb-supersaver-old",
+      "display_name" : "bb supersaver old",
+      "is_door_enabled" : true,
+      "is_checkout_enabled" : true,
+      "ec_specific_icon_url" : "https://www.bigbasket.com/media/uploads/bb_ec_specific_logo.png",
+      "door_icon_url" : "https://www.bigbasket.com/media/uploads/bb_door_logo.png",
+      "toolbar_icon_url" : "https://www.bigbasket.com/media/uploads/bb_header_logo.png",
+      "app_behaviour" : "standard"
+    },
+    "100" : {
+      "id" : 100,
+      "slug" : "bb-b2c",
+      "display_name" : "Bigbasket",
+      "is_door_enabled" : true,
+      "is_checkout_enabled" : true,
+      "ec_specific_icon_url" : "https://www.bigbasket.com/media/uploads/bb_ec_specific_logo.png",
+      "door_icon_url" : "https://www.bigbasket.com/media/uploads/bb_door_logo.png",
+      "toolbar_icon_url" : "https://www.bigbasket.com/media/uploads/bb_header_logo.png",
+      "app_behaviour" : "standard",
+      "door_inclusion_priority" : 1
+    },
+    "101" : {
+      "id" : 101,
+      "slug" : "bb-b2b-kirana",
+      "display_name" : "Kirana",
+      "is_door_enabled" : true,
+      "is_checkout_enabled" : true,
+      "ec_specific_icon_url" : "",
+      "door_icon_url" : "https://www.bigbasket.com/media/uploads/bb_door_logo.png",
+      "toolbar_icon_url" : "https://www.bigbasket.com/media/uploads/bb_header_logo.png",
+      "app_behaviour" : "standard"
+    },
+    "103" : {
+      "id" : 103,
+      "slug" : "bb-b2b-institutional",
+      "display_name" : "Institutional",
+      "is_door_enabled" : true,
+      "is_checkout_enabled" : true,
+      "ec_specific_icon_url" : "",
+      "door_icon_url" : "https://www.bigbasket.com/media/uploads/bb_door_logo.png",
+      "toolbar_icon_url" : "https://www.bigbasket.com/media/uploads/bb_header_logo.png",
+      "app_behaviour" : "standard"
+    }
+  },
+  "applicable_ec_doors_for_member" : [ 100, 15, 16, 10, 12, 13, 14, 17 ],
+  "next_available_slots" : [ { } ],
+  "ec_doors" : [ ]
+}

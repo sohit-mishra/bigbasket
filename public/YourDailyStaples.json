@@ -1,0 +1,29 @@
+{
+  "baseurl": "https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/91e53046-98e0-4c5b-ae53-7d073e5210e1/0bb0a6da-8713-48fc-a40d-93cd63ca2025/",
+  "banners": [
+    {
+      "img": "hp_atta-flour-staplesStorefront_m_480_250323_01.jpg",
+      "url": "https://www.bigbasket.com/pc/foodgrains-oil-masala/atta-flours-sooji/"
+    },
+    {
+      "img": "hp_rice-staplesStorefront_m_480_250323_02.jpg",
+      "url": "https://www.bigbasket.com/pc/foodgrains-oil-masala/rice-rice-products/"
+    },
+    {
+      "img": "hp_dals-pulses-staplesStorefront_m_480_250323_03.jpg",
+      "url": "https://www.bigbasket.com/pc/foodgrains-oil-masala/dals-pulses/"
+    },
+    {
+      "img": "hp_cooking-oils-staplesStorefront_m_480_250323_04.jpg",
+      "url": "https://www.bigbasket.com/pc/foodgrains-oil-masala/edible-oils-ghee/"
+    },
+    {
+      "img": "hp_dry-fruits-staplesStorefront_m_480_250323_05.jpg",
+      "url": "https://www.bigbasket.com/pc/foodgrains-oil-masala/dry-fruits/"
+    },
+    {
+      "img": "hp_salt-staplesStorefront_m_480_250323_06.jpg",
+      "url": "https://www.bigbasket.com/pc/foodgrains-oil-masala/salt-sugar-jaggery/"
+    }
+  ]
+}

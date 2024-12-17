@@ -1,0 +1,29 @@
+{
+  "baseurl": "https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/91e53046-98e0-4c5b-ae53-7d073e5210e1/1efc132e-4754-4359-a9a3-a9c3ec267d28/",
+  "banners": [
+    {
+      "img": "hp_GMunder-99_m_250723_01.jpg",
+      "url": "https://www.bigbasket.com/sp/2310309-under-99/"
+    },
+    {
+      "img": "hp_GM100-199_m_250723_02.jpg",
+      "url": "https://www.bigbasket.com/sp/2310310-rs-100-199"
+    },
+    {
+      "img": "hp_GMStorefront-pressure-cooker_m_250723_03.jpg",
+      "url": "https://www.bigbasket.com/sp/2308194-pressure-cookers/"
+    },
+    {
+      "img": "hp_GMStorefront-stationery-store_m_250723_04.jpg",
+      "url": "https://www.bigbasket.com/sp/2310313-stationery/"
+    },
+    {
+      "img": "hp_GM-storage-container_m_250723_05.jpg",
+      "url": "https://www.bigbasket.com/sp/2310311-storage-solutions/"
+    },
+    {
+      "img": "hp_GM-cleaning-needs_m_250723_06.jpg",
+      "url": "https://www.bigbasket.com/sp/2308196-cleaning-essential/"
+    }
+  ]
+}

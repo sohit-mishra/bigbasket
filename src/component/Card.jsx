@@ -6,7 +6,7 @@ export default function Footer({url ,heading}) {
 
     const fetchData = async () => {
         try {
-            const response = await fetch("http://localhost:8080/https://bigbasketjson.netlify.app/"+url);
+            const response = await fetch(url);
             const jsonData = await response.json();
             setData(jsonData.images);
             setbaseUrl(jsonData.baseurl);

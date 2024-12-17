@@ -1,0 +1,29 @@
+{
+  "baseurl": "https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/91e53046-98e0-4c5b-ae53-7d073e5210e1/50aa5fc7-cfa4-4919-b3ba-064fd9aa9441/",
+  "banners": [
+    {
+      "img": "hp_b&h_m_-makeup_480_250923.jpg",
+      "url": "https://www.bigbasket.com/sp/2310072-makeup-show/"
+    },
+    {
+      "img": "hp_b&h_m_moisturiser_480_250923.jpg",
+      "url": "https://www.bigbasket.com/sp/2310073-moisturisers/"
+    },
+    {
+      "img": "hp_b&h_m_perfumes_480_250923.jpg",
+      "url": "https://www.bigbasket.com/sp/2310074-scent-sational-perfumes/"
+    },
+    {
+      "img": "hp_b&h_m_mens-shaving_480_250923.jpg",
+      "url": "https://www.bigbasket.com/sp/2310075-shaving-care/"
+    },
+    {
+      "img": "hp_b&h_m_minimum-30-off_480_250923.jpg",
+      "url": "https://www.bigbasket.com/sp/2310076-minimum-30/"
+    },
+    {
+      "img": "hp_b&h_m_big-pack-bigger-saving%20bf_480_250923.jpg",
+      "url": "https://www.bigbasket.com/sp/2310077-big-pack/"
+    }
+  ]
+}

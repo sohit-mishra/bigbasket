@@ -1,0 +1,207 @@
+{
+  "base_url": "https://www.bigbasket.com/media/uploads/p/m/",
+  "products": [
+    {
+      "image_url": "10000027_28-fresho-banana-robusta.jpg",
+      "name": "Premium Banana - Robusta",
+      "category": "Fresho",
+      "options": [
+        {
+          "percentage": 27,
+          "fixed_price": 20.55,
+          "seller_price": 15,
+          "quantity": "500g"
+        },
+        {
+          "percentage": 27,
+          "fixed_price": 46.50,
+          "seller_price": 34,
+          "quantity": "1kg"
+        }
+      ],
+      "url": "https://www.bigbasket.com/pd/10000027/fresho-banana-robusta-500-g/"
+    },
+    {
+      "image_url": "10000067_23-fresho-capsicum-green.jpg",
+      "name": "Capsicum - Green (Loose)",
+      "category": "Fresho",
+      "options": [
+        {
+          "percentage": 27,
+          "fixed_price": 26.03,
+          "seller_price": 19,
+          "quantity": "250g"
+        },
+        {
+          "percentage": 53,
+          "fixed_price": 50.0,
+          "seller_price": 27.5,
+          "quantity": "500g"
+        },
+        {
+          "percentage": 49,
+          "fixed_price": 90.63,
+          "seller_price": 50,
+          "quantity": "1kg"
+        }
+      ],
+      "url": "https://www.bigbasket.com/pd/10000067/fresho-capsicum-green-1-kg/"
+    },
+    {
+      "image_url": "10000083_17-fresho-chilli-green-long-medium.jpg",
+      "name": "Chilli - Green Long, Medium (Loose)",
+      "category": "Fresho",
+      "options": [
+        {
+          "percentage": 35,
+          "fixed_price": 18.99,
+          "seller_price": 14.5,
+          "quantity": "250g"
+        },
+        {
+          "percentage": 42,
+          "fixed_price": 55.0,
+          "seller_price": 32,
+          "quantity": "500g"
+        },
+        {
+          "percentage": 57,
+          "fixed_price": 110.0,
+          "seller_price": 70,
+          "quantity": "1kg"
+        }
+      ],
+      "url": "https://www.bigbasket.com/pd/10000083/fresho-chilli-green-long-medium-500-g/"
+    },
+    {
+      "image_url": "10000326_14-fresho-coriander-leaves.jpg",
+      "name": "Coriander Leaves",
+      "category": "Fresho",
+      "options": [
+        {
+          "percentage": 20,
+          "fixed_price": 8.99,
+          "seller_price": 7,
+          "quantity": "100g"
+        },
+        {
+          "percentage": 38,
+          "fixed_price": 15.0,
+          "seller_price": 10,
+          "quantity": "200g"
+        },
+        {
+          "percentage": 45,
+          "fixed_price": 28.0,
+          "seller_price": 20,
+          "quantity": "500g"
+        }
+      ],
+      "url": "https://www.bigbasket.com/pd/10000326/fresho-coriander-leaves-1-kg/"
+    },
+    {
+      "image_url": "10000119_18-fresho-ginger.jpg",
+      "name": "Ginger (Loose)",
+      "category": "Fresho",
+      "options": [
+        {
+          "percentage": 30,
+          "fixed_price": 10.99,
+          "seller_price": 8,
+          "quantity": "250g"
+        },
+        {
+          "percentage": 50,
+          "fixed_price": 22.0,
+          "seller_price": 15,
+          "quantity": "500g"
+        },
+        {
+          "percentage": 65,
+          "fixed_price": 40.0,
+          "seller_price": 28,
+          "quantity": "1kg"
+        }
+      ],
+      "url": "https://www.bigbasket.com/pd/10000119/fresho-ginger-500-g/"
+    },
+    {
+      "image_url": "10000128_17-fresho-lemon.jpg",
+      "name": "Lemon (Loose)",
+      "category": "Fresho",
+      "options": [
+        {
+          "percentage": 25,
+          "fixed_price": 5.99,
+          "seller_price": 4.5,
+          "quantity": "4 pieces"
+        },
+        {
+          "percentage": 42,
+          "fixed_price": 12.0,
+          "seller_price": 8,
+          "quantity": "8 pieces"
+        },
+        {
+          "percentage": 60,
+          "fixed_price": 20.0,
+          "seller_price": 14,
+          "quantity": "12 pieces"
+        }
+      ],
+      "url": "https://www.bigbasket.com/pd/10000128/fresho-lemon-500-g/"
+    },
+    {
+      "image_url": "10000142_17-fresho-ladies-finger.jpg",
+      "name": "Ladies' Fingers (Loose)",
+      "category": "Fresho",
+      "options": [
+        {
+          "percentage": 28,
+          "fixed_price": 15.99,
+          "seller_price": 12,
+          "quantity": "250g"
+        },
+        {
+          "percentage": 45,
+          "fixed_price": 30.0,
+          "seller_price": 22,
+          "quantity": "500g"
+        },
+        {
+          "percentage": 55,
+          "fixed_price": 55.0,
+          "seller_price": 38,
+          "quantity": "1kg"
+        }
+      ],
+      "url": "https://www.bigbasket.com/pd/10000142/fresho-ladies-finger-1-kg/"
+    },
+    {
+      "image_url": "10000150_19-fresho-onion.jpg",
+      "name": "Onion (Loose)",
+      "category": "Fresho",
+      "options": [
+        {
+          "percentage": 32,
+          "fixed_price": 10.99,
+          "seller_price": 8.5,
+          "quantity": "500g"
+        },
+        {
+          "percentage": 48,
+          "fixed_price": 22.0,
+          "seller_price": 15,
+          "quantity": "1kg"
+        },
+        {
+          "percentage": 60,
+          "fixed_price": 40.0,
+          "seller_price": 28,
+          "quantity": "2kg"
+        }
+      ],
+      "url": "https://www.bigbasket.com/pd/10000150/fresho-onion-5-kg/"
+    }
+  ]
+}
